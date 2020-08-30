@@ -1,0 +1,70 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Слепая вечеринка",
+      "image": "https://cdnmyslo.ru/AfishaImage/dc/d9/dcd9e881-05d9-4ce0-b2cd-eefe283d544f_1.jpg",
+      "location": {
+        "address": "г. Липецк, ул. Терешковой, д. 16",
+        "latitude": 52.61782003,
+        "longitude": 39.56823707
+      },
+      "invited": {
+        "phone": "+79000000000",
+        "name": "Владислав"
+      },
+      "guests": [
+        {
+          "phone": "+79111111111",
+          "name": "Дарья"
+        },
+        {
+          "phone": "+79222222222",
+          "name": "Саша"
+        },
+        {
+          "phone": "+79333333333",
+          "name": "Дима"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "SINGLES PARTY",
+      "image": "https://bzh.life/wp-content/uploads/2020/07/a5e9678c00e16b4c8965efb0772b5184.jpg",
+      "location": {
+        "address": "г. Липецк, ул. Баумана, д. 6",
+        "latitude": 52.63585461,
+        "longitude": 39.66685116
+      },
+      "invited": {
+        "phone": "+79111111111",
+        "name": "Дарья"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Монте-Карло ночь",
+      "image": "https://skyline-gs.com/wp-content/uploads/2017/04/Party-Wallpapers-13.jpeg",
+      "location": {
+        "address": "г. Липецк, ул. Катукова, д. 50",
+        "latitude": 52.59336208,
+        "longitude": 39.50814486
+      },
+      "invited": {
+        "phone": "+79444444444",
+        "name": "Вася"
+      },
+      "guests": [
+        {
+          "phone": "+79222222222",
+          "name": "Саша"
+        },
+        {
+          "phone": "+79333333333",
+          "name": "Дима"
+        }
+      ]
+    }
+  ]
+}

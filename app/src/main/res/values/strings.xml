@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BSC</string>
+    <string name="card_event_list_item_map_button_text">Карта</string>
+    <string name="view_guest_list_come_with_you_text">С Вами придут</string>
+    <string name="card_event_list_item_invited_text">Пригласил(а): %1s</string>
+    <string name="read_contact_permission_deny_message">Read Contacts permission need to show your friends photos in event.</string>
+</resources>
